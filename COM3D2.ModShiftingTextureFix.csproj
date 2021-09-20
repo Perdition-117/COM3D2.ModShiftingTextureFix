@@ -4,6 +4,8 @@
     <TargetFramework>net35</TargetFramework>
     <LangVersion>9.0</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RepositoryUrl>https://github.com/Perdition-51/COM3D2.ModShiftingTextureFix</RepositoryUrl>
+    <Authors>Perdition</Authors>
   </PropertyGroup>
 
 	<ItemGroup>
